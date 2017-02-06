@@ -15,4 +15,3 @@ Ama Laravel? Torne se um Jedi e Ajude outros Padawans
 ### @TODO
  - Adicionar Links para Grupos do Google+ e Facebook
  - Adcionar Logo do Laravel Brasil
- - Criar Nesse Repositório, um modelo geral de perguntas (template) para que as perguntas tenha um ponto de partida
