@@ -7,7 +7,7 @@ Ama Laravel? Torne se um Jedi e Ajude outros Padawans
 ### Como Utilizar esse Fórum
  
  - 1) Utilize Issues Para Criar Perguntas.
- - 2) Varias Tags estão disponíveis, na cor Azul, sobre temas e categorias, utilize-as para categorizar suas perguntas.
+ - 2) Várias Tags estão disponíveis, na cor Azul, sobre temas e categorias, utilize-as para categorizar suas perguntas.
  - 3) Utilize as Tags na cor Laranja para especifar a versão atual do Laravel que está usando.
  - 4) Seja claro e tente ao máximo utilizar o português corretamente.
  - 5) Seja educado e gentil, para aumentar suas chances de conseguir uma resposta satisfatória.
