@@ -16,6 +16,5 @@ Ama Laravel? Torne se um Jedi e Ajude outros Padawans
 ### Participe do Laravel Brasil
  - [Slack](http://slack.laravel.com.br) - Grupo de Chat do Slack
  - [Facebook](https://www.facebook.com/groups/laravelbrasil/) - Grupo Laravel Brasil no Facebook
- 
-### @TODO
- - Adicionar Link do Google+
+ - [Telegram](https://t.me/laravelbr) - Grupo do Telegrama do Laravel Brasil
+ - [Google Plus](https://plus.google.com/communities/116661672628675028624) - Comunidade do Laravel Brasil no Google Plus
